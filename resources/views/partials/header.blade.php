@@ -9,7 +9,7 @@
         }
 
         .navbar {
-            background-color: black;
+            background-color: orange;
             color: white;
             padding: 15px 30px; 
             display: flex;
